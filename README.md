@@ -6,7 +6,7 @@ DDS Extension for Akka
 This project is part of my Thesis "Quality-of-Service Support in Distributed and Wide-Scale Actor Systems".
 You can read more information in RTI blog (http://bit.ly/akkadds).
 
-Scope of the project is to create a Akka Extension to support RTI Connext DDS.
+Scope of the project is to create an Akka Extension to support RTI Connext DDS.
 
 To deploy the code you have to download and install Akka 2.2.4 (http://downloads.typesafe.com/akka/akka-2.2.4.zip),
 Scala 2.10.4 (http://www.scala-lang.org/download/all.html), and RTI Connext DDS (http://www.rti.com/downloads/index.html).
